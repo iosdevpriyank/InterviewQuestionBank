@@ -36,66 +36,66 @@
 
 ## Intermediate Level
 
-11. **What is a static property in Swift?**  
+1. **What is a static property in Swift?**  
     *Answer coming soon...*
 
-12. **What is a type property, and how does it differ from an instance property?**  
+2. **What is a type property, and how does it differ from an instance property?**  
     *Answer coming soon...*
 
-13. **Explain the concept of key paths in Swift.**  
+3. **Explain the concept of key paths in Swift.**  
     *Answer coming soon...*
 
-14. **How can you prevent a property from being modified?**  
+4. **How can you prevent a property from being modified?**  
     *Answer coming soon...*
 
-15. **What is a default memberwise initializer?**  
+5. **What is a default memberwise initializer?**  
     *Answer coming soon...*
 
-16. **How do you create a convenience initializer?**  
+6. **How do you create a convenience initializer?**  
     *Answer coming soon...*
 
-17. **What is the role of required in initializers?**  
+7. **What is the role of required in initializers?**  
     *Answer coming soon...*
 
-18. **How do you ensure initialization of all properties in a class?**  
+8. **How do you ensure initialization of all properties in a class?**  
     *Answer coming soon...*
 
-19. **Can an initializer call another initializer?**  
+9. **Can an initializer call another initializer?**  
     *Answer coming soon...*
 
-20. **What are access control levels for properties in Swift (public, private, etc.)?**  
+10. **What are access control levels for properties in Swift (public, private, etc.)?**  
     *Answer coming soon...*
 
 ---
 
 ## Advanced Level
 
-21. **What are lazy properties, and when should you use them?**  
+1. **What are lazy properties, and when should you use them?**  
     *Answer coming soon...*
 
-22. **How do property wrappers work in Swift?**  
+2. **How do property wrappers work in Swift?**  
     *Answer coming soon...*
 
-23. **How do you create custom property observers?**  
+3. **How do you create custom property observers?**  
     *Answer coming soon...*
 
-24. **What is dependency injection, and how can initializers help with that?**  
+4. **What is dependency injection, and how can initializers help with that?**  
     *Answer coming soon...*
 
-25. **What is copy-on-write optimization in properties?**  
+5. **What is copy-on-write optimization in properties?**  
     *Answer coming soon...*
 
-26. **Can you override a property’s getter and setter in a subclass?**  
+6. **Can you override a property’s getter and setter in a subclass?**  
     *Answer coming soon...*
 
-27. **How do reference and value types handle properties differently?**  
+7. **How do reference and value types handle properties differently?**  
     *Answer coming soon...*
 
-28. **What is @NSManaged in Core Data properties?**  
+8. **What is @NSManaged in Core Data properties?**  
     *Answer coming soon...*
 
-29. **How do you use @propertyWrapper to create reusable code?**  
+9. **How do you use @propertyWrapper to create reusable code?**  
     *Answer coming soon...*
 
-30. **How can lazy var impact memory management?**  
+10. **How can lazy var impact memory management?**  
     *Answer coming soon...*
